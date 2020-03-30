@@ -3,7 +3,7 @@ import { View, Text , StatusBar } from 'react-native'
 import { withNavigation } from 'react-navigation'
 import MapView from 'react-native-maps'
 import Styles from './style'
-class ZonesScreen extends Component {
+class ZonesScreen extends Component { 
     
     render() {
         return (
